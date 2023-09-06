@@ -758,6 +758,13 @@
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
       "extensions": ["jsonnet", "libsonnet"]
     },
+    "JSP": {
+      "name": "JSP",
+      "multi_line_comments": [["<!--", "-->"], ["<%--", "--%>"]],
+      "extensions": [
+        "jsp"
+      ]
+    },
     "Jsx": {
       "name": "JSX",
       "line_comment": ["//"],
